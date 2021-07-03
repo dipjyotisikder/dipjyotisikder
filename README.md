@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🔭  &nbsp; I’m currently working on **Bit Mascot (Pvt.) Ltd**
 
-- ✎ &nbsp; I’m currently working with **Typescript** **Angular**, **Asp.Net Core**
+- ✎ &nbsp; I’m currently working with **Typescript**, **Angular**, **Asp.Net Core**
 
 - ⭆  &nbsp; I’m currently learning **GraphQL**, **Python**, **DevOps**
 
