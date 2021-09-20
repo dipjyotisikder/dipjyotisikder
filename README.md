@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**jyotidips/jyotidips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **jyotidips/jyotidips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,8 +11,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### Hello 👋
 <h1 align="center">Hi 👋, I'm Dipjyoti Sikder </h1>
 
 <h5 align="center">A passionate web/app developer who is playing with Asp.Net, Asp.Net Core, Angular, React</h5>
