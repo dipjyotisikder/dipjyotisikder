@@ -51,5 +51,12 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="left"><a href="mailto:dipjyotisikder@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/64/000000/gmail-new.png" alt="jyotidips" height="40" width="40" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/dipjyotisikder/" target="blank"><img align="center" src="https://icons8.com/icon/114445/linkedin-circled" alt="jyotidips" height="40" width="40" /></a> &nbsp;
+<p align="left">
+  <a href="mailto:dipjyotisikder@gmail.com" target="blank">
+    <img align="center" src="https://img.icons8.com/color/64/000000/gmail-new.png" alt="jyotidips" height="40" width="40" />
+  </a>&nbsp;
+
+<a href="https://www.linkedin.com/in/dipjyotisikder/" target="blank">
+    <img align="center" src="https://icons8.com/icon/114445/linkedin-circled" alt="jyotidips" height="40" width="40" />
+  </a> &nbsp;
+</p>
