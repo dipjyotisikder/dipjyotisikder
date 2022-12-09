@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h5 align="center">A passionate web/app developer who is playing with Asp.Net, Asp.Net Core, Angular, React</h5>
 
 
-- 🔭  &nbsp; I’m currently working on **Bit Mascot (Pvt.) Ltd**
+- 🔭  &nbsp; I’m currently working on **BJIT**
 
 - ✎ &nbsp; I’m currently working with **Typescript**, **Angular**, **Asp.Net Core**
 
