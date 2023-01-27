@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - ✎ &nbsp; I’m currently working with **Typescript**, **Angular**, **Asp.Net Core**
 
-- ⭆  &nbsp; I’m currently learning **GraphQL**, **Python**, **DevOps**
+- ⭆  &nbsp; I’m currently learning **Azure Services**, **Low level design**, **DevOps**
 
 - 👯  &nbsp; I’m looking to collaborate on **Open Source Projects**
 
