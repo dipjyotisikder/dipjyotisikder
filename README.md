@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭  &nbsp; I’m currently working on **BJIT**
 
-- ✎ &nbsp; I’m currently working with **C#**, **Asp.Net Core**, **Typescript**, **Angular** 
+- ✎ &nbsp; I’m currently working with **C#**, **.Net6**, **Typescript**, **Angular** 
 
 - ⭆  &nbsp; I’m currently learning **Azure Services**
 
