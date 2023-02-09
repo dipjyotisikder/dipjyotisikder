@@ -13,14 +13,13 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Dipjyoti Sikder </h1>
 
-<h5 align="center">A passionate web/app developer who is playing with Asp.Net, Asp.Net Core, Angular, React</h5>
-
+<h5 align="center">A passionate software engineer who is playing with .NET and Azure</h5>
 
 - 🔭  &nbsp; I’m currently working on **BJIT**
 
-- ✎ &nbsp; I’m currently working with **Typescript**, **Angular**, **Asp.Net Core**
+- ✎ &nbsp; I’m currently working with **C#**, **Asp.Net Core**, **Typescript**, **Angular** 
 
-- ⭆  &nbsp; I’m currently learning **Azure Services**, **Low level design**, **DevOps**
+- ⭆  &nbsp; I’m currently learning **Azure Services**
 
 - 👯  &nbsp; I’m looking to collaborate on **Open Source Projects**
 
@@ -30,7 +29,7 @@ Here are some ideas to get you started:
 
 - 📫  &nbsp;How to reach me **dipjyotisikder@gmail.com**
 
-- ⚡  &nbsp;Fun fact **I love to watch football matches, movies...:P **
+- ⚡  &nbsp;Fun fact **I love to watch football.**
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyotidips&label=Profile%20views&color=0e75b6&style=flat" alt="dipjyoti" /> </p>
