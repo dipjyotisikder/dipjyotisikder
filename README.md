@@ -1,16 +1,16 @@
-<h1 align="center">Hi, I'm Dipjyoti Sikder </h1>
+<h1 align="center">Hi, I'm Dipjyoti Sikder</h1>
 
-<h5 align="center">A passionate SWE playing with .NET, Angular and Azure</h5>
+<h5 align="center">A passionate SWE playing with .NET, Angular and Azure.</h5>
 
-🔭&nbsp;I’m currently working on **BJIT**
+🔭&nbsp;I’m currently working at **[BJIT Limited](https://bjitgroup.com)**.
 
-✎ &nbsp;I’m currently working with **C#**, **.Net**, **MSSQL**, **Entity Framework**, **Azure Services**, **GraphQL**, **Docker** 
+✎ &nbsp;I’m currently working with **C#**, **.NET Core**, **MSSQL**, **Entity Framework**, **Azure Services**, **GraphQL**, **Docker**.
 
-⭆ &nbsp;I’m currently learning **Azure Services and Docker** in-depth.
+⭆ &nbsp;I’m currently learning **Azure Services, Docker, CI/CD** in-depth.
 
-👯 &nbsp;I’m looking to collaborate on **Open Source Projects**
+👯 &nbsp;I’m looking to collaborate on **Open Source Projects**.
 
-💬 &nbsp;Let me be your next work partner! Reach me at **dipjyotisikder@gmail.com**
+💬 &nbsp;Let me be your next work partner! Reach me at **dipjyotisikder@gmail.com**.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipjyotisikder&label=Profile%20views&color=0e75b6&style=flat" alt="dipjyoti" /> </p>
 
