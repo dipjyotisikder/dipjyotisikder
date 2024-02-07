@@ -4,19 +4,13 @@
 
 🔭&nbsp;I’m currently working on **BJIT**
 
-✎ &nbsp;I’m currently working with **C#**, **.Net**, **Typescript**, **Angular** 
+✎ &nbsp;I’m currently working with **C#**, **.Net**, **MSSQL**, **Entity Framework**, **Azure Services**, **GraphQL**, **Docker** 
 
-⭆ &nbsp;I’m currently learning **Azure Services and Docker**
+⭆ &nbsp;I’m currently learning **Azure Services and Docker** in-depth.
 
 👯 &nbsp;I’m looking to collaborate on **Open Source Projects**
 
-👨‍💻 &nbsp;All of my projects are available at [https://github.com/dipjyotisikder](https://github.com/dipjyotisikder)
-
-📫 &nbsp;How to reach me **dipjyotisikder@gmail.com**
-
-⚡ &nbsp;I love to watch football.
-
-💬 &nbsp;I am humble, so frankly ask just anything!
+💬 &nbsp;Let me be your next work partner! Reach me at **dipjyotisikder@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipjyotisikder&label=Profile%20views&color=0e75b6&style=flat" alt="dipjyoti" /> </p>
 
@@ -66,5 +60,4 @@
   <a href="https://twitter.com/dipjyotisikder" target="blank">
     <img align="center" width="48" height="48" src="https://img.icons8.com/color/48/twitter--v1.png" alt="twitter--v1"/>
   </a>
-
 </p>
