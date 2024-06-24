@@ -1,12 +1,10 @@
 <h1 align="center">Hi, I'm Dipjyoti Sikder</h1>
 
-<h5 align="center">A passionate SWE playing with .NET, Angular and Azure.</h5>
+<h5 align="center">A passionate Software Engineer playing with .NET, Angular and Azure.</h5>
 
 🔭&nbsp;I’m currently working at **[BJIT Limited](https://bjitgroup.com)**.
 
-✎ &nbsp;I’m currently working with **C#**, **.NET Core**, **MSSQL**, **Entity Framework**, **Azure Services**, **GraphQL**, **Docker**.
-
-⭆ &nbsp;I’m currently learning **Azure Services, Docker, CI/CD** in-depth.
+✎ &nbsp;I’m currently working with **C#**, **.NET**, **MSSQL**, **NoSQL**, **Entity Framework**, **Dapper**, **Azure Services**, **GraphQL**, **Docker**, **Microservice**.
 
 👯 &nbsp;I’m looking to collaborate on **Open Source Projects**.
 
