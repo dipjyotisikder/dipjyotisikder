@@ -12,6 +12,8 @@
 
 💬 &nbsp;Let me be your next work partner! Reach me at **dipjyotisikder@gmail.com**.
 
+✎&nbsp; Want to learn .NET with fun? Join my blog **[dipjyotisikder.com](https://www.dipjyotisikder.com)**
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipjyotisikder&label=Profile%20views&color=0e75b6&style=flat" alt="dipjyoti" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dipjyotisikder" alt="dipjyoti" /></a> </p>
