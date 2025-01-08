@@ -4,7 +4,7 @@
 
 🔭&nbsp;I’m currently working at **[BJIT Limited](https://bjitgroup.com)**.
 
-✎ &nbsp;I’m currently working with **C#**, **.NET**, **MSSQL**, **NoSQL**, **Entity Framework**, **Dapper**, **Azure Services**, **GraphQL**, **Docker**, **Microservice**.
+✎ &nbsp;I’m currently working with **.NET**, **Azure**, **GraphQL**, **Docker**, **Microservice**.
 
 👯 &nbsp;I’m looking to collaborate on **Open Source Projects**.
 
