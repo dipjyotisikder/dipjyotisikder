@@ -40,8 +40,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dipjyotisikder&show_icons=true&locale=en" alt="dipjyotisikder" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipjyotisikder&" alt="dipjyotisikder" /></p>
-
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
