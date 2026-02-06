@@ -185,8 +185,8 @@ I believe in **reducing complexity, not adding it**. My approach: strong fundame
 ### Enterprise Systems at Scale
 
 - **Water Supply & Sewerage Automation:** 500K+ residents, 200+ IoT sensors, 99.9% uptime
-  - Led 4-member backend team & architected scalable data platform (mgt.cwasabd.org)
-  - Engineered dynamic KPI engine processing 100,000+ data points daily
+  - Led 4-member backend team & architected scalable data platform
+  - Engineered a dynamic KPI engine processing 100,000+ data points daily
   - Integrated Redis caching layer: 60% database load reduction & 75% query performance improvement
   - Implemented RabbitMQ for reliable IoT data ingestion from 200+ sensors
 
