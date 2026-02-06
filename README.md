@@ -352,7 +352,7 @@ I believe in **reducing complexity, not adding it**. My approach: strong fundame
 - Integration Testing
 - Performance Testing
 
-      </td>
+    </td>
 
     </tr>
   </table>
