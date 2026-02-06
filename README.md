@@ -154,53 +154,94 @@ I believe in **reducing complexity, not adding it**. My approach: strong fundame
   <tr>
     <th align="left">Period</th>
     <th align="left">Role</th>
+    <th align="left">Organization</th>
     <th align="left">Impact & Focus</th>
   </tr>
   <tr>
-    <td>2024 - Present</td>
-    <td><b>Senior Backend Engineer</b> (BJIT Limited)</td>
-    <td>Architecting scalable microservices, leading technical initiatives, mentoring junior engineers, API optimization</td>
+    <td><b>July 2025 - Present</b></td>
+    <td><b>Principal Software Engineer</b></td>
+    <td>BJIT Limited</td>
+    <td>Leading cross-functional teams, architecting enterprise solutions, .NET 8 modernization, HRIS system design</td>
   </tr>
   <tr>
-    <td>2021 - 2024</td>
-    <td><b>Backend Engineer</b> (BJIT Limited)</td>
-    <td>Built data-driven platforms serving 500K+ users, Redis optimization, RabbitMQ integration, real-time systems</td>
+    <td><b>Nov 2022 - June 2025</b></td>
+    <td><b>Senior Software Engineer</b></td>
+    <td>BJIT Limited</td>
+    <td>Microservice architecture, 95%+ unit test coverage, central authorization server, Rakuten Drone support, Docker deployment</td>
   </tr>
   <tr>
-    <td>2019 - 2021</td>
-    <td><b>Software Engineer</b> (Previous Organization)</td>
-    <td>Full-stack development, establishing coding standards, mentoring junior developers</td>
+    <td><b>Jan 2022 - Nov 2022</b></td>
+    <td><b>Senior Software Engineer</b></td>
+    <td>Bit Mascot (Pvt.) Ltd</td>
+    <td>Full-stack team leadership, Clean Architecture APIs, reusable UI components, custom query builders</td>
   </tr>
   <tr>
-    <td>2018 - Present</td>
-    <td><b>Open-source Contributor & Technical Blogger</b></td>
-    <td>NuGet package (2,500+ downloads), blogging platform, sharing real engineering lessons</td>
+    <td><b>April 2019 - Dec 2021</b></td>
+    <td><b>Software Engineer</b></td>
+    <td>Bit Mascot (Pvt.) Ltd</td>
+    <td>Full-stack development, OAuth2 implementation, event scheduling, code optimization, 95%+ test coverage</td>
+  </tr>
+  <tr>
+    <td><b>2015 - Present</b></td>
+    <td><b>Open-source Contributor</b></td>
+    <td>GitHub</td>
+    <td>2 NuGet packages (2,500+ downloads), production-grade blog platform, community mentoring</td>
   </tr>
 </table>
 
 ---
 
-## Professional Achievements
+### Key Metrics & Achievements
+
+| Achievement                    | Detail                             |
+| ------------------------------ | ---------------------------------- |
+| **Best Performer of the Year** | BJIT Limited (2023)                |
+| **Star Employee Scheme**       | Bit Mascot (Pvt.) Ltd              |
+| **Experience**                 | 6+ years backend engineering       |
+| **Team Leadership**            | Led teams of 4-15+ engineers       |
+| **Open-Source Impact**         | 2 NuGet packages, 2,500+ downloads |
+| **Systems Scaling**            | 500K+ users, 10,000+ requests/min  |
 
 ### Enterprise Systems at Scale
 
-- **Water Supply & Sewerage Automation:** 500K+ residents, 200+ IoT sensors, 99.9% uptime
-  - Led 4-member backend team & architected scalable data platform
-  - Engineered a dynamic KPI engine processing 100,000+ data points daily
-  - Integrated Redis caching layer: 60% database load reduction & 75% query performance improvement
-  - Implemented RabbitMQ for reliable IoT data ingestion from 200+ sensors
+#### 🚀 **Data Driven Water Supply & Sewerage Automation**
 
-- **Drone Delivery System (Rakuten Inc.):** 10,000+ requests/min, 99.95% uptime
-  - Backend architect & API optimization lead
-  - Reduced average API response time: 800ms → 150ms
-  - Architected OAuth2 & MS Entra ID for secure multi-tenant access
-  - Designed real-time flight status algorithm with sub-second WebSocket latency
+**500K+ residents | 200+ IoT sensors | 99.9% uptime**
+
+- Led 4-member backend team & architected scalable data platform
+- Engineered a dynamic KPI engine processing 100,000+ data points daily
+- Integrated Redis caching layer: **60% database load reduction** & **75% query performance improvement**
+- Implemented RabbitMQ for reliable IoT data ingestion from 200+ sensors
+- Designed anomaly detection service with real-time alerts
+
+#### 🚁 **Drone Delivery System – UAV Food Delivery** (Rakuten Inc.)
+
+**10,000+ requests/min | 99.95% uptime**
+
+- Backend architect & API optimization lead
+- Reduced average API response time: **800ms → 150ms** (81% improvement)
+- Architected OAuth2 & MS Entra ID for secure multi-tenant access
+- Designed real-time flight status algorithm with sub-second WebSocket latency
+- Integrated with Azure API Management for high-flow traffic handling
+
+#### 💼 **Additional Projects**
+
+- **Clubeez**: Role-based permissions, chat module, dynamic data segmentation
+- **Business Plaza**: Membership & team management, global event scheduling
+- **Chamera**: Microservice architecture, central authorization server, Python AI integration
 
 ### Open-Source Contributions & Community Impact
 
-- **[Pocket Wallet NuGet Package](https://github.com/dipjyotisikder/PocketWallet):** 2,500+ downloads, 4.5+ star rating
+- **[Pocket Wallet NuGet Package](https://www.nuget.org/packages/Dipjyoti.PocketWallet.Bkash):** 2,500+ downloads, 4.5+ star rating
   - Resilient payment API wrapper with circuit breaker patterns & Polly retry policies
   - 99.8% request success rate
+  - [GitHub Repo](https://github.com/dipjyotisikder/PocketWallet) | [NuGet Package](https://www.nuget.org/packages/Dipjyoti.PocketWallet.Bkash)
+
+- **[Knot Object Mapper](https://github.com/dipjyotisikder/Knot):** Lightweight & efficient mapping library
+  - Convention-based object-to-object mapping for .NET Standard 2.0+
+  - Features: custom property mapping, mapping profiles, type converters, expression compilation for optimal performance
+  - MIT licensed, available on [NuGet](https://www.nuget.org/packages/Knot)
+  - Supports complex scenarios: nested objects, collections, bidirectional mapping, assembly scanning
 
 - **[Engineering Blog](https://www.dipjyotisikder.com):** Full-stack .NET 10 platform
   - Production-grade architecture with SEO best practices, newsletters, and task scheduling
@@ -208,25 +249,136 @@ I believe in **reducing complexity, not adding it**. My approach: strong fundame
 
 ---
 
-## GitHub Contribution Metrics
+---
+
+## Education & Certifications
+
+### Education
+
+- **Bachelor of Science in Computer Science and Engineering**  
+  Patuakhali Science and Technology University, Bangladesh (2015 – 2019)
+
+### Professional Certifications
 
 <p align="center">
-  <img width="100%" alt="stats" src="https://github-readme-stats.vercel.app/api?username=dipjyotisikder&show_icons=true&theme=github_light&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="100%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipjyotisikder&layout=compact&theme=github_light&hide_border=true" />
+  <a href="https://www.hackerrank.com/certificates/ae37facfd176">
+    <img alt="Problem Solving" src="https://img.shields.io/badge/HackerRank-Problem%20Solving-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/certificates/fcd188c4d825">
+    <img alt="REST API" src="https://img.shields.io/badge/HackerRank-REST%20API%20Intermediate-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://www.udemy.com/certificate/UC-5fd43b38-836f-4bed-80b5-7a99d451002e">
+    <img alt="RESTful Web API" src="https://img.shields.io/badge/Udemy-RESTful%20Web%20API-EC5252?style=flat-square&logo=udemy&logoColor=white" />
+  </a>
+  <a href="https://www.udemy.com/certificate/UC-354d669c-a125-4c60-881a-21fea006b565/">
+    <img alt="Clean Code" src="https://img.shields.io/badge/Udemy-Clean%20Code%20C%23-EC5252?style=flat-square&logo=udemy&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## Professional Network
+## 📊 Skills Snapshot
 
-Let's connect if you care about **real engineering**, **sustainable systems**, and **building things that last**.
+<table>
+  <tr>
+    <td width="50%">
+
+### 💻 Languages & Frameworks
+
+- **C#** (Advanced) – Primary language
+- **.NET 8+, .NET Core** – Modern framework expertise
+- **ASP.NET Core** (Web API, MVC)
+- **Entity Framework Core**
+- **JavaScript, TypeScript**
+- **Angular, React, jQuery**
+
+    </td>
+    <td width="50%">
+
+### 🔐 Security & Auth
+
+- JWT, OAuth2, OpenID
+- IdentityServer
+- Azure AD, Azure Key Vault
+- OWASP Best Practices
+- MS Entra ID
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+
+### 📦 Data & Messaging
+
+- **Databases**: SQL Server (T-SQL), PostgreSQL, MongoDB, Cosmos DB
+- **Caching**: Redis
+- **Search**: Elasticsearch
+- **Messaging**: RabbitMQ, Azure Service Bus, Kafka
+- **APIs**: REST, GraphQL, WebSocket
+
+    </td>
+    <td width="50%">
+
+### ☁️ Cloud & DevOps
+
+- **Azure**: App Service, Functions, API Management
+- **containerization**: Docker, Docker Compose
+- **CI/CD**: Azure DevOps, GitHub Actions
+- **Monitoring**: Serilog, Seq, Azure Monitor, Grafana
+- **Infrastructure**: Nginx, AWS, DigitalOcean
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+
+### 🏗️ Architecture & Design
+
+- Microservices Architecture
+- Clean Architecture
+- Domain-Driven Design (DDD)
+- CQRS & Event Sourcing
+- N-Tier Architecture
+- Design Patterns & SOLID Principles
+
+    </td>
+    <td width="50%">
+
+### ✅ Testing & Quality
+
+- Unit Testing (xUnit, Moq)
+- FluentAssertions
+- 95%+ Code Coverage
+- Integration Testing
+- Performance Testing
+
+      </td>
+
+    </tr>
+  </table>
+
+---
+
+## GitHub Profile
+
+<p align="center">
+  <a href="https://github.com/dipjyotisikder">
+    <img alt="GitHub Profile" src="https://img.shields.io/badge/GitHub-dipjyotisikder-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## Get In Touch
+
+**Let's connect if you care about real engineering, sustainable systems, and building things that last.**
 
 <p align="center">
   <a href="mailto:dipjyotisikder@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-dipjyotisikder%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="tel:+8801676501078">
+    <img alt="Phone" src="https://img.shields.io/badge/Phone-%2B880%201676501078-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/dipjyotisikder">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
